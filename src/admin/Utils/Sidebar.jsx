@@ -35,7 +35,7 @@ const Sidebar = () => {
         </li>
 
         <li>
-          <Link to={'/admin/users'}>
+          <Link to={'/account'}>
             <div className="icon">
             <AiOutlineLogout/>
             </div>
